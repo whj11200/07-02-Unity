@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\bin\Debug\net8.0\Mainaap.exe
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\bin\Debug\net8.0\Mainaap.deps.json
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\bin\Debug\net8.0\Mainaap.runtimeconfig.json
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\bin\Debug\net8.0\Mainaap.dll
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\bin\Debug\net8.0\Mainaap.pdb
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\Mainaap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\Mainaap.AssemblyInfoInputs.cache
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\Mainaap.AssemblyInfo.cs
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\Mainaap.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\Mainaap.dll
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\refint\Mainaap.dll
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\Mainaap.pdb
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\Mainaap.genruntimeconfig.cache
+C:\Users\YONSAI\source\repos\Mainaap\Mainaap\obj\Debug\net8.0\ref\Mainaap.dll
